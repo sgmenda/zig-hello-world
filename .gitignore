@@ -1,0 +1,6 @@
+*.swp
+hello
+hello.o
+c_hello
+c_hello.o
+zig-cache/
