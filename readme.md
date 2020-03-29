@@ -1,4 +1,4 @@
-# zig-hello-world
+# Hello World in Zig
 
 ## Building zig
 
